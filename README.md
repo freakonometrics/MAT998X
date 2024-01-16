@@ -10,6 +10,6 @@ Plan de cours : [PLANS-DE-COURS-MAT998P.pdf](https://freakonometrics.hypotheses.
 
 Slides : [discrimination_slides_01102024.pdf](https://github.com/freakonometrics/MAT998X/blob/main/docs/discrimination_slides_01102024.pdf), 1-101, as at January 10th.
 
-Slides : [discrimination_slides_01172024.pdf](https://github.com/freakonometrics/MAT998X/blob/main/docs/discrimination_slides_01172024.pdf), 102-221, as at January 10th.
+Slides : [discrimination_slides_01172024.pdf](https://github.com/freakonometrics/MAT998X/blob/main/docs/discrimination_slides_01172024.pdf), 102-221, as at January 17th.
 
 Notes : [Insurance_Biases_Discrimination_and_Fairness_v2.pdf](http://freakonometrics.free.fr/Insurance_Biases_Discrimination_and_Fairness_v2.pdf)
