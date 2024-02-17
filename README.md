@@ -2,7 +2,7 @@
 
 Arthur Charpentier, professeur
 
-Plan de cours : [PLANS-DE-COURS-MAT998P.pdf](https://freakonometrics.hypotheses.org/files/2024/01/PLANS-DE-COURS-MAT998P.pdf) (version non approuvée)
+Plan de cours : [PLANS-DE-COURS-MAT998P.pdf](https://freakonometrics.hypotheses.org/files/2024/01/PLANS-DE-COURS-MAT998P.pdf) (version approuvée)
 
 ```diff
 - les notes de cours seront mise en ligne au fur et à mesure
