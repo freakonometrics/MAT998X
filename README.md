@@ -14,6 +14,6 @@ Slides (draft) : [discrimination_slides_01172024.pdf](https://github.com/freakon
 
 Slides (draft) : [discrimination_slides_01242024.pdf](http://freakonometrics.free.fr/slides/discrimination_slides_02172024.pdf), 211-342, as at January 24th.
 
-Slides : [discrimination_slides_02172024.pdf](https://github.com/freakonometrics/MAT998X/blob/main/docs/discrimination_slides_02172024.pdf), as at February 17th.
+Slides : [discrimination_slides_02172024.pdf](http://freakonometrics.free.fr/slides/discrimination_slides_02172024.pdf), as at February 17th.
 
 Notes : [Insurance_Biases_Discrimination_and_Fairness_v2.pdf](http://freakonometrics.free.fr/Insurance_Biases_Discrimination_and_Fairness_v2.pdf)
