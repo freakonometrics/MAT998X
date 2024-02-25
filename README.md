@@ -17,3 +17,10 @@ Slides (draft) : [discrimination_slides_01242024.pdf](http://freakonometrics.fre
 Slides : [discrimination_slides_02172024.pdf](http://freakonometrics.free.fr/slides/discrimination_slides_02172024.pdf), as at February 17th.
 
 Notes : [Insurance_Biases_Discrimination_and_Fairness_v2.pdf](http://freakonometrics.free.fr/Insurance_Biases_Discrimination_and_Fairness_v2.pdf)
+
+Pour les projets de fin de session,
+
+* Fairadapt: Causal Reasoning for Fair Data Pre-processing https://arxiv.org/abs/2110.10200
+* Fair learning with bagging https://shs.hal.science/halshs-03500906/document
+* Fairness Constraints: a Flexible Approach for Fair Classification https://jmlr.org/papers/volume20/18-262/18-262.pdf
+* The Measure and Mismeasure of Fairness https://arxiv.org/abs/1808.00023
